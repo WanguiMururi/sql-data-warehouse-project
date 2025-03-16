@@ -39,5 +39,5 @@ This project is licensed under the [MIT License].(LICENSE). You are free to use,
 
 ## 🌟About Me
 
-Hi there! I'm **Wangui Mururi** a Financial Data Analyst on a mission to share knowledge on data emgineering and analysis!
+Hi there! I'm **Wangui Mururi** a Financial Data Analyst on a mission to share knowledge on data engineering and analysis!
 

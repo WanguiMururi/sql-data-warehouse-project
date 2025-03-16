@@ -35,9 +35,9 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ## 💢 License
 
-This project is licensed under the [MIT License].(LICENSE). You are free to use, modify, and share this project with proper attribution.
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟About Me
 
-Hi there! I'm **Wangui Mururi** a Financial Data Analyst on a mission to share knowledge on data engineering and analysis!
+Hi there! I'm **Wangui Mururi** a Financial Data Analyst on a mission to share knowledge and make working with data enjoyable and engaging! 
 
